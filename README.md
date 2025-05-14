@@ -1184,6 +1184,8 @@ API | Description | Auth | HTTPS | CORS |
 | [Time Door](https://timedoor.io) | A time series analysis API | `apiKey` | Yes | Yes |
 | [Unplugg](https://unplu.gg/test_api.html) | Forecasting API for timeseries data | `apiKey` | Yes | Unknown |
 | [WolframAlpha](https://products.wolframalpha.com/api/) | Provides specific answers to questions using data and algorithms | `apiKey` | Yes | Unknown |
+| [DeepAI](https://deepai.org) | DeepAI provides a suite of machine learning APIs for image, text, and other data analysis tasks | `apiKey` | Yes | Unknown |
+
 
 **[⬆ Back to Index](#index)**
 <br >
