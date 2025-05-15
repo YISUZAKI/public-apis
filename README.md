@@ -1674,6 +1674,8 @@ API | Description | Auth | HTTPS | CORS |
 | [UPS](https://www.ups.com/upsdeveloperkit) | Shipment and Address information | `apiKey` | Yes | Unknown |
 | [WeCanTrack](https://docs.wecantrack.com) | Automatically place subids in affiliate links to attribute affiliate conversions to click data | `apiKey` | Yes | Yes |
 | [WhatPulse](https://developer.whatpulse.org/#web-api) | Small application that measures your keyboard/mouse usage | No | Yes | Unknown |
+| [EasyPost](https://www.easypost.com/docs/api) | Provides global package tracking, shipping label creation, and shipping management across multiple carriers | `apiKey` | Yes | Yes |
+
 
 **[⬆ Back to Index](#index)**
 <br >
